@@ -10,6 +10,12 @@ This project is a recreation of the game Simon using a Raspberry Pi 3 and Python
 - Resistors x 4
 - Jumper Wires(M2M x 4 | M2F x 10 | M2M x 4)
 
+### Python Libraries used
+- time 
+- GPIOzero
+- random
+
+### Python Files
 #### Simple Button Test.py
 - Gives an example of one possible solution to reading button input in Python.
 
@@ -18,3 +24,4 @@ This project is a recreation of the game Simon using a Raspberry Pi 3 and Python
 
 #### Pi-mon-Final.py
 - Holds the full project's Python code.
+
