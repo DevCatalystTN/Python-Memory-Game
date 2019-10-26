@@ -16,4 +16,5 @@ This project is a recreation of the game Simon using a Raspberry Pi 3 and Python
 #### Growing_Light_Pattern.py
 - Gives an example of how to create the growing light pattern for the project's LEDs.
 
-#### 
+#### Pimon-final.py
+- Holds the full project's Python code.
